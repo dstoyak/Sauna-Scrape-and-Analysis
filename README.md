@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.7-blue.svg)
+[![Release Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/dstoyak/Sauna-Scrape-and-Analysis/releases/tag/v1.0.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # Vancouver Rental Apartment Analysis
 
 This project aims to analyze rental apartments in Vancouver listed on Craigslist, to determine if rental postings that have a sauna have a monthly rent premium associated with them. The project is divided into four main parts: proxy acquisition, data collection, data preprocessing, and data analysis.
